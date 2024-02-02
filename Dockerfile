@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:22.04
 MAINTAINER @BenjaminHae https://github.com/BenjaminHae
 
 ENV MPD_VERSION 0.19.12-r0
